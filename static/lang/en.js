@@ -122,6 +122,15 @@ module.exports = {
         m_11:'About us',
         m_12:'Fans plan',
 
+        f_76:'Important notice',
+        f_77:'In order to promote the better development of the project, please upgrade the data immediately!',
+        f_77_1:'1. The estimated completion time of the upgrade is 24:00 on October 19, 2022/10/19. Data cannot be synchronized after expiration.',
+        f_77_2:'2. Click the update button to complete the data synchronization of smart contract. If the data is not synchronized, the revenue will be forfeited.',
+        f_77_3:'3. All network data will be synchronized to the new contract after the upgrade;',
+        f_77_4:'4. After the upgrade, it will be open to re-investment with no limit on the amount of investment, and the investment entrance of 30%GNS+70%U will be retained. Please follow the official Twitter for more details.',
+        f_77_5:'The wait function has been upgraded. Thank you for your trust and support! - GNS DAO ',
+        f_78:'upgrade',
+
 
         min:'Minimum 100USDT starting.',
         max:'A single transaction cannot exceed 5000USDT',
